@@ -12,7 +12,9 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
-make it happen
-just stay focused
-just do it
-dont respond to the wrong people
+Just do it!
+Just stay focused
+Just start doing it
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+First, solve the problem. Then, write the code
+Experience is the name everyone gives to their mistakes.
